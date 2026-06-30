@@ -22,7 +22,7 @@ The backend exposes REST endpoints and JWT-based authentication. The frontend co
 From the repository root:
 
 ```bash
-cd /Users/huydv/eachop/simple-invoice
+cd /fullstack-simple-invoice
 docker compose up --build
 ```
 
@@ -48,7 +48,7 @@ A mocked reviewer account is available for testing:
 Run the seed script from the backend folder:
 
 ```bash
-cd /Users/huydv/eachop/simple-invoice/backend
+cd /backend
 yarn seed
 ```
 
