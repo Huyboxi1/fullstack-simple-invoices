@@ -1,0 +1,7 @@
+.idea
+yarn-lock.json
+node_modules
+dist
+*.log
+docker-compose.yaml
+.env
